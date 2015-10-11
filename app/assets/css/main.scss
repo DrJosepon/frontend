@@ -33,7 +33,6 @@
 body {
     background-color: $main;
     font-family: "Fira Sans", "Arial", "sans-serif";
-    font-weight: 300;
     font-size: 14px;
     padding-left: 250px;
     overflow: hidden;
@@ -88,7 +87,6 @@ li.muted a {
     .form-control {
         background-color: #323138;
         border: 1px solid rgba(white, 0);
-        font-weight: 400;
         box-shadow: none;
         color: white;
         height: 40px;
@@ -134,6 +132,5 @@ li.muted a {
 /* Discover Info */
 
 #discoverIntro h2 {
-    font-weight: 300;
     margin-top: 40px;
 }
